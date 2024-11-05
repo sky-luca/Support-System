@@ -1,9 +1,9 @@
 Config = {}
 
--- Webhook URL for Discord logging
+
 Config.WebhookURL = "DISCORD_WEBHOOK_URL"
 
--- Message configurations
+
 Config.Messages = {
     supportRequestTitle = "Support Request",
     supportRequestDescription = "Player %s [%d] needs help with: %s\nSupport ID: %d",
@@ -16,5 +16,5 @@ Config.Messages = {
     cancelSupportRequest = "Support request has been cancelled."
 }
 
--- Permission groups for team members
+
 Config.PermissionGroups = { "admin", "superadmin", "mod", "supporter" }
