@@ -9,6 +9,9 @@ The Support Ticket System is a robust script designed for FiveM, allowing player
 - Integration with Discord to log support requests and ticket claims.
 - Easy-to-use client-side menu for submitting support tickets.
 
+## Preview
+- https://www.youtube.com/watch?v=MdXrv-2vJ04 
+
 ## Requirements
 - FiveM server
 - `ox_lib` library for input dialogs and notifications
